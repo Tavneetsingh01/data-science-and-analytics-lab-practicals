@@ -67,14 +67,17 @@ To create a Conda environment from a YAML file, follow these steps:
 To create a Conda environment from a text file, follow these steps:
 1. Open your terminal (Anaconda Prompt or command line).
 2. Navigate to your project directory where the [`required-packages-list.txt`](/required-packages-list.txt) file is located:
+
     ```bash
     cd path/to/your/project
     ```
 3. Create a new environment (replace <environment-name> with your desired name):
+
     ```bash
     conda create --name <environment-name> --file required-packages-list.txt
     ```
 4. Activate the environment with:
+
     ```bash
     conda activate <environment-name>
     ```
@@ -82,10 +85,12 @@ To create a Conda environment from a text file, follow these steps:
 If you prefer to use pip to create a virtual environment, follow these steps:
 1. Open your terminal.
 2. Navigate to your project directory where the [`required-packages-list.txt`](/required-packages-list.txt) file is located:
+
     ```bash
     cd path/to/your/project
     ```
 3. Create a virtual environment (replace <env-name> with your desired name):
+
     ```bash
     python -m venv <env-name>
     ```
