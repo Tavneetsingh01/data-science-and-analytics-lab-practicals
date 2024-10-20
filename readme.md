@@ -35,7 +35,7 @@
 
 This guide provides instructions on how to recreate the development environment for this project using Conda or pip. You can set up the environment using either a YAML file or a requirements text file.
 
-> [!Note:] Here in the lab while coding the notebooks we have used conda as a package manager and miniconda instead of anaconda as distribution because it has less number of pre installed packages and we can install packages as per our requirement. [Miniconda_3 Installation Guide](/Installation_Guides/Summary%20of%20Installation%20and%20Setup%20Steps%20For%20Miniconda3%20(a%20python%20distribution).pdf)
+> [!NOTE] : Here in the lab while coding the notebooks we have used conda as a package manager and miniconda instead of anaconda as distribution because it has less number of pre installed packages and we can install packages as per our requirement. [Miniconda_3 Installation Guide](/Installation_Guides/Summary%20of%20Installation%20and%20Setup%20Steps%20For%20Miniconda3%20(a%20python%20distribution).pdf)
 
 ## Table of Contents
 
@@ -109,7 +109,7 @@ If you prefer to use pip to create a virtual environment, follow these steps:
     ```bash
     pip install -r required-packages-list.txt
     ```
-> [!Note:-]
+> [!NOTE] :-
 > - Ensure you have Conda or Python installed on your system.
 > - If you encounter any issues while creating the environment, check that all packages listed in the files are available in your Conda channels or PyPI.
 > - It is recommended to regularly update your environment files as you add new packages to ensure reproducibility for other users.
