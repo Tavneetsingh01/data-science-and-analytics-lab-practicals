@@ -109,7 +109,7 @@ If you prefer to use pip to create a virtual environment, follow these steps:
     ```bash
     pip install -r required-packages-list.txt
     ```
-> [!NOTE] :-
+>[!NOTE] :-
 > - Ensure you have Conda or Python installed on your system.
 > - If you encounter any issues while creating the environment, check that all packages listed in the files are available in your Conda channels or PyPI.
 > - It is recommended to regularly update your environment files as you add new packages to ensure reproducibility for other users.
