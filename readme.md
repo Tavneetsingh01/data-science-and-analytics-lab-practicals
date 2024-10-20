@@ -116,7 +116,7 @@ If you prefer to use pip to create a virtual environment, follow these steps:
 > - By following these instructions, you will be able to set up the development environment required for this project effortlessly. If you have any questions or need further assistance, feel free to open an issue in this repository.
 
 ## Contributing
->  :handshake: Feel free to open an issue in this repository If you encounter any issues with any of the notebook code then plese feel free to opne an issue and also if you want to add more programs to the repository the fell free to generate a pull request to this repository. Whole Community will appreciate your feedback and contributions. Thank you 
+>  :handshake: Feel free to open an issue in this repository if you encounter any issues with any of the notebook code and also if you want to add more programs to the repository the fell free to generate a pull request to this repository. Whole Community will appreciate your feedback and contributions. Thank you 
 
 ![jerry and duck handshake](https://tenor.com/en-GB/view/tom-and-jerry-jerry-the-mouse-jerry-shake-hands-handshake-gif-17827738.gif)
 
