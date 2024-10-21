@@ -26,7 +26,12 @@
     </tr>
      <tr>
         <td style="border: 1px solid black; padding: 8px;"><b>Q4. Predict if a person will buy an SUV based on their Age and Estimated Salary using Logistic Regression.</b></td>
-        <td style="border: 1px solid black; padding: 8px;"><a href="Logistic_Regression.ipynb">Logistic Regression Program</a></td>
+        <td style="border: 1px solid black; padding: 8px;"><a href="Logistic_Regression.ipynb">Logistic Regression Notebook</a></td>
+        <td style="border: 1px solid black; padding: 8px;"><i>Currently Under Development</i></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px;"><b>Q5. Does Kyphosis exist after surgery using Decision Tree?</b></td>
+        <td style="border: 1px solid black; padding: 8px;"><a href="/decision_tree.ipynb">Decision Tree Notebook</a></td>
         <td style="border: 1px solid black; padding: 8px;"><i>Currently Under Development</i></td>
     </tr>
 </table>
