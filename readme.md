@@ -36,7 +36,7 @@
     </tr>
     <tr>
         <td style="border: 1px solid black; padding: 8px;"><b>Q6. Predict if a person will buy a SUV based on Age and Estimated Salary using KNN?</b></td>
-        <td style="border: 1px solid black; padding: 8px;"><a href="/K_Nearest_Neighbors_Buy_Suv.ipynb.ipynb">KNN Notebook</a></td>
+        <td style="border: 1px solid black; padding: 8px;"><a href="/K_Nearest_Neighbors_Buy_Suv.ipynb">KNN Notebook</a></td>
         <td style="border: 1px solid black; padding: 8px;"><i>Currently Under Development</i></td>
     </tr>
 </table>
