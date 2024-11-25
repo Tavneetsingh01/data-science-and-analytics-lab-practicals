@@ -35,8 +35,19 @@
         <td style="border: 1px solid black; padding: 8px;"><i>Currently Under Development</i></td>
     </tr>
     <tr>
-        <td style="border: 1px solid black; padding: 8px;"><b>Q6. Predict if a person will buy a SUV based on Age and Estimated Salary using KNN?</b></td>
+        <td style="border: 1px solid black; padding: 8px;"><b>Q6. Write a Program to Demonstrate Random Forest Algorithm</b></td>
+        <td style="border: 1px solid black; padding: 8px;"><i>This is Maked as your assignment and it will be uploaded before Lab Examination</i></td>
+        <td style="border: 1px solid black; padding: 8px;"><i>Currently Under Development</i></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px;"><b>Q7. Predict if a person will buy a SUV based on Age and Estimated Salary using KNN?</b></td>
         <td style="border: 1px solid black; padding: 8px;"><a href="/K_Nearest_Neighbors_Buy_Suv.ipynb">KNN Notebook</a></td>
+        <td style="border: 1px solid black; padding: 8px;"><i>Currently Under Development</i></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px;"><b>Q8. Features Extraction from Text using Word Vectorization for Text Semantics?</b></td>
+        <td style="border: 1px solid black; padding: 8px;"><a href="/Feature_Extraction_and_Evaluation_Using_SST2.ipynb">1. Feature Extraction and Evalutaion Notebook Using SST2 Dataset</a><hr> 
+        <a href="/Feature_Extraction_and_Evaluation_From_Basic_Text_Example.ipynb">2. Feature Extraction and Evalutaion Notebook Using Basic Example</a></td>
         <td style="border: 1px solid black; padding: 8px;"><i>Currently Under Development</i></td>
     </tr>
 </table>
