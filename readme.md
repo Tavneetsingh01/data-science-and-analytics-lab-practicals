@@ -50,6 +50,16 @@
         <a href="/Feature_Extraction_and_Evaluation_From_Basic_Text_Example.ipynb">2. Feature Extraction and Evalutaion Notebook Using Basic Example</a></td>
         <td style="border: 1px solid black; padding: 8px;"><i>Currently Under Development</i></td>
     </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px;"><b>Q9. Sentiment Analysis from online news website using simple natural language processing.</b></td>
+        <td style="border: 1px solid black; padding: 8px;"><a href="#">Sentiement Analysis Notebook <i>(Will be Uploaded on Coming Monday)<i></a></td>
+        <td style="border: 1px solid black; padding: 8px;"><i>Currently Under Development</i></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px;"><b>Q10. Use of KmeansClustering algorithm for classifying persons into 3 categories according to their salary.</b></td>
+        <td style="border: 1px solid black; padding: 8px;"><a href="#">K-Means Clustering Notebook <i>(Will be Uploaded on Coming Monday)<i></a></td>
+        <td style="border: 1px solid black; padding: 8px;"><i>Currently Under Development</i></td>
+    </tr>
 </table>
 
 ## Environment Setup Guide
