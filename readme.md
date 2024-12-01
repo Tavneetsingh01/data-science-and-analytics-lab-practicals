@@ -60,6 +60,11 @@
         <td style="border: 1px solid black; padding: 8px;"><a href="#">K-Means Clustering Notebook <i>(Will be Uploaded on Coming Monday)<i></a></td>
         <td style="border: 1px solid black; padding: 8px;"><i>Currently Under Development</i></td>
     </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px;"><b>Q11. Write a program for demonstrating (Support Vector Machine Classifier) SVM algorithm.</b></td>
+        <td style="border: 1px solid black; padding: 8px;"><a href="/SVM_On_Iris_Dataset.ipynb"> SVM Notebook </a></td>
+        <td style="border: 1px solid black; padding: 8px;"><i>Currently Under Development</i></td>
+    </tr>
 </table>
 
 ## Environment Setup Guide
@@ -152,7 +157,7 @@ If you prefer to use pip to create a virtual environment, follow these steps:
 > - By following these instructions, you will be able to set up the development environment required for this project effortlessly. If you have any questions or need further assistance, feel free to open an issue in this repository.
 
 ## Contributing
->  :handshake: Feel free to open an issue in this repository if you encounter any issues with any of the notebook code and also if you want to add more programs to the repository the fell free to generate a pull request to this repository. Whole Community will appreciate your feedback and contributions. Thank you 
+>  :handshake: Feel free to open an issue in this repository if you encounter any issues with any of the notebook code and also if you want to add more programs to the repository then feel free to generate a pull request to this repository. Whole Community will appreciate your feedback and contributions. Thank you 
 
 ![jerry and duck handshake](https://tenor.com/en-GB/view/tom-and-jerry-jerry-the-mouse-jerry-shake-hands-handshake-gif-17827738.gif)
 
