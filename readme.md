@@ -36,7 +36,7 @@
     </tr>
     <tr>
         <td style="border: 1px solid black; padding: 8px;"><b>Q6. Write a Program to Demonstrate Random Forest Algorithm</b></td>
-        <td style="border: 1px solid black; padding: 8px;"><i>This is Maked as your assignment and it will be uploaded before Lab Examination</i></td>
+        <td style="border: 1px solid black; padding: 8px;"><a href="/Random_Forest_algorithm_on_Iris_Dataset.ipynb">Random Forest Notebook</a></td>
         <td style="border: 1px solid black; padding: 8px;"><i>Currently Under Development</i></td>
     </tr>
     <tr>
