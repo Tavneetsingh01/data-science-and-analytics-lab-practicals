@@ -56,7 +56,7 @@
         <td style="border: 1px solid black; padding: 8px;"><i>Currently Under Development</i></td>
     </tr>
     <tr>
-        <td style="border: 1px solid black; padding: 8px;"><b>Q10. Use of KmeansClustering algorithm for classifying persons into 3 categories according to their salary.</b></td>
+        <td style="border: 1px solid black; padding: 8px;"><b>Q10. Use of KmeansClustering algorithm for classifying persons into 5 categories according to their salary.</b></td>
         <td style="border: 1px solid black; padding: 8px;"><a href="/K_Means_Clustering_Notebook.ipynb">K-Means Clustering Notebook</a></td>
         <td style="border: 1px solid black; padding: 8px;"><i>Currently Under Development</i></td>
     </tr>
